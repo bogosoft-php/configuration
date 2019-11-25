@@ -1,0 +1,16 @@
+{
+    "description": "Application configuration contracts for PHP 7.1+",
+    "name": "bogosoft/configuration",
+    "version": "1.0.0",
+    "require": {
+        "bogosoft/core": "1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bogosoft\\Configuration\\": "src/"
+        }
+    }
+}
