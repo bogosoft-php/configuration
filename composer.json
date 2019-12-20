@@ -1,5 +1,5 @@
 {
-    "description": "Application configuration contracts and minimal implementations for PHP 7.1+",
+    "description": "Application configuration contracts and minimal implementations for PHP 7.4+",
     "name": "bogosoft/configuration",
     "license": "MIT",
     "keywords": ["config", "configuration"],
@@ -10,7 +10,7 @@
     },
     "require": {
         "php": ">=7.4",
-        "bogosoft/core": "^1.1"
+        "bogosoft/core": "^2"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5"
